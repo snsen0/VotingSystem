@@ -21,3 +21,4 @@ npx react-native start
 <br />
 
 
+![votingsystem](https://github.com/snsen0/VotingSystem/assets/148704343/0d048e54-93b1-4a38-b905-eca9cccfdd1e)
